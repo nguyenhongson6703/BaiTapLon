@@ -1,6 +1,7 @@
 package hello3;
 
 public class mainclass {
+	public static final int port = 9999;
 
 	public mainclass() {
 		
